@@ -1,0 +1,16 @@
+game_date,player,team,opponent,home,days_rest,minutes_avg_5,usage_rate_5,stat_type,line,actual
+2025-01-01,Nikola Jokic,DEN,SAS,1,2,36.5,31.2,points,27.5,30
+2025-01-02,Jayson Tatum,BOS,NYK,0,1,35.1,30.0,points,28.5,26
+2025-01-03,Stephen Curry,GSW,LAL,1,2,34.2,29.1,points,26.5,33
+2025-01-04,Luka Doncic,DAL,HOU,0,1,37.8,36.5,points,31.5,29
+2025-01-05,Giannis Antetokounmpo,MIL,CHI,1,2,34.4,35.7,points,30.5,32
+2025-01-06,Shai Gilgeous-Alexander,OKC,UTA,1,1,35.7,33.2,points,29.5,27
+2025-01-07,Devin Booker,PHX,SAC,0,2,35.9,31.5,points,27.5,31
+2025-01-08,Anthony Edwards,MIN,POR,1,2,36.1,31.0,points,26.5,24
+2025-01-09,Donovan Mitchell,CLE,ATL,0,1,35.0,32.1,points,27.5,29
+2025-01-10,Tyrese Haliburton,IND,CHA,1,2,34.0,25.8,points,20.5,19
+2025-01-11,Nikola Jokic,DEN,PHX,0,1,36.3,31.6,points,28.5,34
+2025-01-12,Jayson Tatum,BOS,MIA,1,2,35.3,30.4,points,27.5,30
+2025-01-13,Stephen Curry,GSW,DAL,0,2,34.0,29.0,points,27.5,25
+2025-01-14,Luka Doncic,DAL,MEM,1,2,38.0,36.8,points,32.5,37
+2025-01-15,Giannis Antetokounmpo,MIL,PHI,0,1,34.6,35.3,points,31.5,33
