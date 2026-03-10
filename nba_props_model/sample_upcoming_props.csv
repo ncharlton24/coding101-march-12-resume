@@ -1,0 +1,9 @@
+game_date,player,team,opponent,home,days_rest,minutes_avg_5,usage_rate_5,stat_type,line
+2026-03-10,Nikola Jokic,DEN,MIN,1,1,36.8,32.0,points,28.5
+2026-03-10,Jayson Tatum,BOS,PHI,0,1,36.0,30.5,points,27.5
+2026-03-10,Stephen Curry,GSW,LAC,1,2,33.9,29.8,points,26.5
+2026-03-10,Luka Doncic,DAL,OKC,0,1,37.9,36.7,points,31.5
+2026-03-10,Giannis Antetokounmpo,MIL,NYK,1,2,34.8,35.6,points,30.5
+2026-03-10,Domantas Sabonis,SAC,PHX,0,1,35.5,23.0,rebounds,12.5
+2026-03-10,Trae Young,ATL,ORL,1,1,35.2,33.1,assists,10.5
+2026-03-10,Anthony Edwards,MIN,DEN,0,1,36.2,31.3,points,27.5
